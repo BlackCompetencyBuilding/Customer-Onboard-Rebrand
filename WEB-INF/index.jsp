@@ -70,7 +70,7 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#vision">VISION</a></li>
 				<li><a href="Registration.jsp">SIGN UP</a></li>
-				<li><a href="Login.jsp">LOGIN</a></li>
+				<li><a href="Login.jsp">SIGN IN</a></li>
 			</ul>
 		</div>
 	</div>
@@ -135,7 +135,7 @@
 			href="#myPage" title="To Top"> <span
 			class="glyphicon glyphicon-chevron-up"></span>
 		</a>
-		<p>Developed by Mohammad Raghib Mumt </p>
+		<p>Developed by Mohammad Raghib</p>
 		</footer>
 </body>
 </html>
